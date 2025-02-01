@@ -71,7 +71,7 @@ public class VertexAiEmbeddingModelExample {
 
 |English models|Multilingual models| Multimodal embeddings |
 |---|---|-----------------------|
-|`textembedding-gecko@001`|`textembedding-gecko-multilingual@001`|`multimodalembedding`|
+|`textembedding-gecko@001`|`textembedding-gecko-multilingual@001`|
 |`textembedding-gecko@003`|`text-multilingual-embedding-002`|                       |
 |`text-embedding-004`|   |                       |
 
